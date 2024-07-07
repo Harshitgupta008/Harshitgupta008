@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Fullstack using MERN**
+- 🔭 I’m currently working on **Fullstack using MERN projectname Imagegallery(private repo)**
 - 👨‍💻 All of my projects are available on [HarshitGupta](https://github.com/Harshit0032?tab=repositories)
 - 🌱 I’m currently learning **Data Structures and Algorithms with JAVA**
 - 💬 Ask me about **Java, MERN**
