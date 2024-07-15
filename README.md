@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Harshit0032/Harshit0032/blob/main/harshitgupta.png)
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
     
 <h3 align="center">A passionate Full Stack developer from India</h3>
