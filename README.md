@@ -1,11 +1,11 @@
 ![logo](https://github.com/Harshit0032/Harshit0032/blob/main/harshitgupta.png)
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
     
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Full Stack developer from India</h3>
 
 
 
-- 🔭 I’m currently working on **Fullstack using MERN airbunb(booking)**
+- 🔭 I’m currently working on **Fullstack using MERN Hospital Management(handle doctor and patient data)**
 - 👨‍💻 All of my projects are available on [HarshitGupta](https://github.com/Harshit0032?tab=repositories)
 - 🌱 I’m currently learning **Data Structures and Algorithms with JAVA**
 - 💬 Ask me about **Java, MERN**
