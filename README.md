@@ -27,6 +27,6 @@
 <img src="https://www.pngkit.com/png/detail/866-8665831_the-postman-logo-is-available-in-png-svg.png" alt="postman" width="40" height="40"/></p><br><br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit0032&show_icons=true&locale=en&layout=compact" alt="harshit0032" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit0032&show_icons=true&locale=en" alt="harshit0032" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitgupta008&show_icons=true&locale=en" alt="harshitgupta008" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit0032&" alt="harshit0032" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgupta008&" alt="harshit0032" /></p>
